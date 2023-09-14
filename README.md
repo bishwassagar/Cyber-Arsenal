@@ -4,8 +4,8 @@ A Personal Repository for CTF Adventures": Welcome to my personal Cyber-Arsenal,
 ## Cryptography Challanges
 
 ### [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis 
-
 ### [dcode.fr](https://github.com/gchq/CyberChef) - Cipher Identifier
+### [quipqiup](https://www.quipqiup.com/) - Automated Cryptogram Solver 
 
 ## Reverse Engineering
 
